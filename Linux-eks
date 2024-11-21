@@ -1,0 +1,28 @@
+1. Explain types of services available in Kubernetes?
+      * ClusterIp
+      * NodePort
+      *LoadBalancer
+2. What is ImagePullBackkOff Error in Kubernetes and how to troubleshoot the issue?
+3. what CrashLoppBackOff error?
+4. Command to check container logs? 
+5. Explain Kubernetes architecture?
+6. What is container and what are the advantages of EKS.
+7. What is ConfigMaps and secrets ?
+8. What is replica sets and rolling deployment?
+9. What is deamon sets?
+10. Command to enter inside the pod the running pod?
+----------------
+Linux : 
+1. What is Kernel Panic error . What could be the reason?
+2. Any simple questions in booting process and related issue?
+3. What is sticky bit, Set UID, Set GUID?
+4. What is soft link and hard link?
+5. When trying to unmounting it is not unmounting, how to troubleshoot this one?
+6. How to reduce the logical volume and update the file system?
+7.How to move or migrate the logical volume data from one physical volume to another physical
+volume?
+8. Explain about AWS IAM
+9. 
+
+
+
