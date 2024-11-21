@@ -1,5 +1,5 @@
 Content View in Red Hat Satellite Server is a way to manage and organize content repositories, software updates, and configurations for efficient lifecycle management of systems. It allows you to create snapshots of content that can be promoted across different environments, such as Development, Testing, and Production.
-
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGMxMWVhODgtZjk5Yi00NjQ0LTgzMTYtMDc5ODk4ZWY0NGJh%40thread.v2/0?context=%7b%22Tid%22%3a%22b727a530-a0d5-4fb8-bd40-d8f9763e97db%22%2c%22Oid%22%3a%224f58c2e7-e8d4-42a1-b64f-9d61bc511173%22%7d
 Key Features of Content View:
 
 	1.	Repository Management: It lets you include specific software repositories (e.g., Red Hat repos, custom repos, Puppet modules).
